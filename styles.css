@@ -1,0 +1,56 @@
+body {
+  background-color: #8b9a46;
+  color: #541212;
+}
+img {
+  border-radius: 50%;
+}
+hr {
+  width: 90%;
+}
+ul {
+  list-style-type: none;
+}
+.intro {
+  background-color: #8b9a46;
+  width: 80%;
+  display: inline-block;
+  margin: 0%;
+}
+.photo {
+  background-color: #8b9a46;
+  width: 90%;
+  display: inline-block;
+  position: absolute;
+  right: 1%;
+  margin: 0%;
+  padding: 0%;
+}
+.data {
+  background-color: #8b9a46;
+  display: inline-block;
+  width: 80%;
+  position: relative;
+  left: 30%;
+  float: left;
+  margin: 0%;
+}
+.mid {
+  background-color: #8b9a46;
+  width: 70%;
+  display: inline-block;
+  margin: 0%;
+}
+
+.side {
+  background-color: #8b9a46;
+  width: 20%;
+  display: inline-block;
+  position: absolute;
+  top: 40%;
+  right: 7%;
+  margin: 0%;
+}
+.logo {
+  width: 1.5%;
+}
